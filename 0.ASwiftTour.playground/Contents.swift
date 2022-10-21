@@ -1,7 +1,5 @@
 import UIKit
 
-import UIKit
-
 let constant: Float = 4
 print(constant)
 //--------------------------------------------------------------------------
